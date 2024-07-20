@@ -4,9 +4,13 @@
 </div>
 
 ---
+##Status
 
+[![EdwardCrux GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EdwardCrux&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![EdwardCrux GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EdwardCrux&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ## Distribuições focadas:
 
+---
 <div align="center">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=White" alt="Debian">
